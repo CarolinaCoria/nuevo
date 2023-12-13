@@ -1,0 +1,3 @@
+class Habilidades
+
+    def idiomas
