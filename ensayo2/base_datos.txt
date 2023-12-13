@@ -1,0 +1,15 @@
+
+        >>>   El anual:
+        >>>     Nombre: benito
+        >>>     Apellido: Pereyra
+        >>>     Cantidad de cursos: 2
+        >>>     Ciudad: Parque San Martín
+        __________________________________________________
+    
+        >>>   El anual:
+        >>>     Nombre: veronica
+        >>>     Apellido: Salas
+        >>>     Cantidad de cursos: 1
+        >>>     Ciudad: Quito
+        __________________________________________________
+    
